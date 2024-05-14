@@ -28,6 +28,7 @@
                                             <th>Valor da peça</th>
                                             <th>Fornecedor</th>
                                             <th>Valor de venda</th>
+                                            <th>Quantidade de peças</th>
                                             <th>&nbsp;</th>
                                         </tr>
                                     </thead>
@@ -64,8 +65,10 @@
                                             <th>Fornecedor</th>
                                             <th>valor de venda</th>
                                             <th>Quantidade de peças</th>
+                                            
                                             <th>&nbsp;</th>
                                         </tr>
+                                        
                                         <a href="cad_dados_pessoais.php" class="btn btn-primary">Cadastrar nova peça</a>
 
                                     </tfoot>
